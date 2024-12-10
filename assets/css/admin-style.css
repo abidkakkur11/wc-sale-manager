@@ -1,0 +1,58 @@
+/* WooCommerce Sale Manager Admin Styles */
+.wrap h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    max-width: 600px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin: 10px 0 5px;
+    font-size: 14px;
+}
+
+select, input[type="text"], input[type="datetime-local"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+select[multiple] {
+    height: 150px;
+    overflow-y: auto;
+}
+
+button[type="submit"] {
+    background-color: #0073aa;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+button[type="submit"]:hover {
+    background-color: #005177;
+}
+
+.notice {
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #46b450;
+    background-color: #f6ffed;
+    color: #333;
+}
