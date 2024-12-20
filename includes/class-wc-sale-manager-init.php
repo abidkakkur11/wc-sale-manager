@@ -50,3 +50,4 @@ class WC_Sale_Manager_Init {
     }
 }
 
+

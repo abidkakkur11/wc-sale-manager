@@ -1,11 +1,17 @@
 <?php
 /**
- * Plugin Name: WooCommerce Sale Manager
- * Description: A plugin to apply scheduled sales by category, product type, and discount type (percentage or fixed).
+ * Plugin Name: WC Sale Manager
+ * Plugin URI: https://abidkp.com
+ * Description: Manage sale prices for WooCommerce products. Apply discounts by category, schedule sales, and customize settings easily.
  * Version: 1.0.0
  * Author: Abid KP
+ * Author URI: https://abidkp.com
  * Text Domain: wc-sale-manager
+ * Domain Path: /languages
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
+
 
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly.
